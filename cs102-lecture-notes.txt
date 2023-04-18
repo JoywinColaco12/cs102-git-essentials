@@ -4,3 +4,6 @@ git commit : Saves the changes made on either locally or on the GitHub Website.
 git push : Helps update the changes made locally to the GitHub Website.
 git pull : Helps update the changes made from the GitHub Website to the local computer.
 git status : Helps check the status of the repository.
+
+## Summary
+Today we learnt about Markdown language which is used to create various websites like Wikipedia, our course website, etc. For the example of Wikipedia, we looked into the wikipedia page of Goa. There we saw how certain text was emphasised and tables were placed to help increase the readability of the document. We then learned about HTML and XML. XML is used to store data which is not usually visually appealing. HTML is used to display content which is visually appealing. We also got an assignment of creating our own markdown file.
