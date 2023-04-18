@@ -1,0 +1,6 @@
+# Git commands
+git add : Tells GitHub to track this file
+git commit : Saves the changes made on either locally or on the GitHub Website.
+git push : Helps update the changes made locally to the GitHub Website.
+git pull : Helps update the changes made from the GitHub Website to the local computer.
+git status : Helps check the status of the repository.
